@@ -1,5 +1,5 @@
-// Python - 344. Reverse String
-// https://leetcode.com/problems/reverse-string/submissions/
+# Python - 344. Reverse String
+# https://leetcode.com/problems/reverse-string/submissions/
 
 class Solution:
     def reverseString(self, s: List[str]) -> None:
